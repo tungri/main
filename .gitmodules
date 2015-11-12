@@ -1,0 +1,3 @@
+[submodule "dbconnector"]
+	path = dbconnector
+	url = git@github.com:HCIPL/dbconnector.git
